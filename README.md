@@ -12,6 +12,7 @@ Contents
 
 The current contents of this repository include:
 
+* modeling_arxiv_submissions.ipynb: A Jupyter notebook for doing some basic modeling of monthly submissions to the arXiv
 
 License
 =======
